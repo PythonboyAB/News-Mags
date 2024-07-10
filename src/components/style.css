@@ -1,0 +1,17 @@
+.card-component{
+    max-width:345px;
+    /* border:solid red 1.5px; */
+    box-shadow: 10px 7px 10px rgba(198, 198, 198, 0.583);
+}
+
+
+
+.nav-sec{
+    cursor: pointer;
+}
+
+.alignment{
+    margin: 3rem 6rem; 
+   
+}
+
